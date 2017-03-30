@@ -1,0 +1,8 @@
+{
+  "/dist/ui.js": "/dist/ui.js",
+  "/test/my-iview.css": "/test/my-iview.css",
+  "/test/index.css": "/test/index.css",
+  "dist/styles/ui.css": "dist/styles/ui.css",
+  "./dist/styles/ui.min.css": "./dist/styles/ui.min.css",
+  "./dist/ui.min.js": "./dist/ui.min.js"
+}
